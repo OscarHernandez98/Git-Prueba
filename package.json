@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/OscarHernandez98/git-prueba/issues"
   },
-  "homepage": "https://github.com/OscarHernandez98/git-prueba#readme"
+  "homepage": "https://github.com/OscarHernandez98/git-prueba#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
